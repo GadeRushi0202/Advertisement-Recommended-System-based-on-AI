@@ -1,0 +1,30 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 26, 2017, 11:05:17 AM
+    Author     : SHRI
+*/
+
+.req{
+    font-family: 'Time New Roman';
+    font-size: 10x;
+    line-height: normal;
+    padding: auto;
+    text-decoration: none;
+}
+h1{
+    font-family: 'Time New Roman';
+    background-color: papayawhip;
+    text-declaration:icon;
+}
+table #1{
+    width: 100%;
+    background-color:red;
+}
+.text{
+    font-family: 'Time New Roman';
+    font-size:20px;
+}
